@@ -1,8 +1,8 @@
-# React project (Todo-list)
+# React Redux Project (Todo-list)
 
-## First react project
+## First redux project
 
-First react project todo list
+First redux project todo list
 
 ## Components
 
