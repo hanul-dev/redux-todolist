@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# React project (Todo-list)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## First react project
 
-## Available Scripts
+First react project todo list
 
-In the project directory, you can run:
+## Components
 
-### `npm start`
+### Header.js
+![image](https://user-images.githubusercontent.com/110656247/204861877-5efd6672-280f-42a0-973e-c734640923f6.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### TodoForm.js
+![image](https://user-images.githubusercontent.com/110656247/204861933-bea02f7e-49eb-474b-b2cf-212dacdf45a0.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Todo.js
+![image](https://user-images.githubusercontent.com/110656247/204862101-d042afbd-68ff-4edf-bd7e-d9263bdd6e8f.png)
 
-### `npm test`
+### TodoCard.js
+![image](https://user-images.githubusercontent.com/110656247/204862197-e93a72a4-bd93-4317-b3a1-2c421c0e587f.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### TodoDetail.js
+![image](https://user-images.githubusercontent.com/110656247/206175305-f19c9fa9-8ab6-4db2-ae14-028a2792463c.png)
